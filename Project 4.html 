@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<!-- Caroline Moloney, P04, 4/18/18-->
+<html>
+	<head>
+	<!--metadata--> 
+	<meta charsset="utf-8">
+	<meta name="description" content="Girl Develop It">
+	<meta name="keywords" content="women,technology"> 
+		<Title>Girl Develop It</title> 
+	<link rel="stylesheet" type="text/css" href="Project 4.css">
+	</head>
+	
+	<header> 
+	<img src="logo.jpg" alt="logo" title="girl develop it logo" height="200px" width="700px"/>
+	</header>
+	
+	<!--Main part of the webpage-->
+	<main>
+	<h1><u>About</u></h1>
+	<p>It can be intimidating for women to learn and ask questions when they are in an extreme minority. While open and welcoming, todays budding developer community is up to 91% male. If we can empower more females with the confidence in there technological capabilities we can <i>begin to change this landscape</i></p>
+	<h2><u>Our Locations</u></h2> 
+	<ul>USA</ul>
+		<li> 
+	
